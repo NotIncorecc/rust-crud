@@ -20,7 +20,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ### 2️⃣ Clone this repository
 ```sh
 git clone https://github.com/NotIncorecc/rust-crud.git
-cd fastapi_clone_rust
+cd rust-crud
 ```
 ### 3️⃣ Install Dependencies
 Navigate to the project root and run:
